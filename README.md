@@ -4,7 +4,7 @@ Repositório para armazenar todas as atividades realizadas a partir dos cursos d
 
 Cursos finalizados:
 
-Java JRE e JDK: compile e execute o seu programa ☑️
+Java JRE e JDK: compile e execute o seu programa ☑️✔️
 
 
 
