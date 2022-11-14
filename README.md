@@ -1,6 +1,6 @@
 # Cursos de Java
 
-Repositório para armazenar todas as atividades realizadas a partir dos cursos de Java da plataforma de estudo Alura. 
+Repositório para armazenar todas as atividades realizadas a partir dos cursos de Java da plataforma de estudos Alura. 
 
 Cursos finalizados:
 
