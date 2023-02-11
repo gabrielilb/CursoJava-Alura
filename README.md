@@ -5,8 +5,11 @@ Repositório para armazenar todas as atividades realizadas a partir dos cursos d
 Cursos finalizados:
 
 Java JRE e JDK: compile e execute o seu programa ✔️ <br>
-Java OO: entendendo a Orientação a Objetos ✔️
+Java OO: entendendo a Orientação a Objetos ✔️ <br>
+Java Polimorfismo: entenda herança e interfaces ✔️
 
 Cursos em andamento: 
 
-Java Polimorfismo: entenda herança e interfaces
+Java Exceções: aprenda a criar, lançar e controlar exceções
+
+
